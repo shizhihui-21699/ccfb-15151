@@ -16,3 +16,11 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# built binaries
+/simctl
+/authd
+/nodeagent
+/workload
+/loadgen
+/hsmd
